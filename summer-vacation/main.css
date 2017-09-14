@@ -1,0 +1,29 @@
+body {
+	background-color:#a560af
+}
+
+h1 { 
+ color:#592b47; 
+ font-family: Comic Sans MS, cursive, sans-serif;
+ font-size: 60px;
+ text-align:center; 
+} 
+
+h2 { 
+   font-size: 20px;
+   text-align:center;
+}
+
+p { 
+	color: #161516 
+	font-size:20px; 
+} 
+
+h3 { 
+  color: #99266d;
+  font-family:Inconsolata;
+  font-size:35px;
+
+p { 
+  font-size:45px;
+}
